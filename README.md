@@ -37,3 +37,6 @@ npm run tauri dev
 ```bash
  env -u http_proxy -u https_proxy -u HTTP_PROXY -u HTTPS_PROXY -u ALL_PROXY -u all_proxy npm run tauri dev
  ```
+### 访问源码
+
+`win12-desktop` 项目在 [Codeberg](https://codeberg.org/win12-online/win12-desktop) 开源。
