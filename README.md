@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> ## 我们已迁移至 [Codeberg](https://codeberg.org/win12-online)，此仓库中不存放源代码。请前往 [我们的Codeberg仓库](https://codeberg.org/win12-online/win12-desktop) 查看源代码。
+
+---
+
 # win12-desktop
 win12 桌面端，基于 Tauri 封装，将 Windows 12 网页版变成独立桌面应用。
 
